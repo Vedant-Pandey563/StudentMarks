@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string name = "Rahul";
+        int marks = 80;
+        string grade = "A";
+
+        Console.WriteLine("Student Name: " + name);
+        Console.WriteLine("Marks: " + marks);
+        Console.WriteLine("Grade: " + grade);
+    }
+}
